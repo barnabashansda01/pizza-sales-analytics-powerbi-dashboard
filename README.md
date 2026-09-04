@@ -49,3 +49,5 @@ Support data-driven business decisions.
 Data Analysis | Power BI | DAX | Data Visualization | Business Intelligence | Dashboard Development | Sales Analytics
 Topics/Tags:
 power-bi data-analytics data-visualization dax business-intelligence sales-analysis dashboard pizza-sales data-analyst
+Dashboard Insight
+<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/96e0a3da-bf97-4ca3-8586-69636b81dddf" />
